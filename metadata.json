@@ -1,0 +1,16 @@
+{
+    "chainId": 101,
+    "symbol": "BLSS",
+    "name": "Bliss",
+    "logoURI": "https://arweave.net/TBMjcuTQ4gqYA6Vjo94LQSJClS2IXS3lh0wjQb3a3wI",
+    "tags": [
+      "utility-token",
+      "governance-token",
+      "community-token",
+      "social-token"
+    ],
+    "extensions": {
+      "discord": "https://discord.gg/fHM4n2MUsC",
+      "twitter": "https://twitter.com/Bliss_solana"
+    }
+  }
